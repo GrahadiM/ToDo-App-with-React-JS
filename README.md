@@ -22,7 +22,7 @@ This is ToDo App uses React JS for Developer Technical Test in Implementation Te
 <b>Please wait.</b>
 
 <details>
-	<summary>Home page (not connected)</summary>
+	<summary>Home page (base)</summary>
 	
 ![Home Not Logged In](public/assets/home_not_logged_in.png)
 </details>
