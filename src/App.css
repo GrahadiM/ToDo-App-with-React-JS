@@ -26,8 +26,27 @@
     margin-bottom: 6px;
 }
 
-.todo-input {
-    width: 950px;
+.todo-tool {
+    display: flex;
+}
+
+.todoAdd, .todoFilter {
+    margin: 8px;
+}
+
+.todo-filter {
+    width: 450px;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 20px;
+    outline: none;
+    border: none;
+    background: #ffffff;
+    font-size: 16px;
+}
+
+.todo-add {
+    width: 450px;
     border-radius: 5px;
     font-size: 16px;
     padding: 20px;
@@ -38,7 +57,7 @@
 }
 
 ::placeholder {
-    color: #aaaaaa;
+    color: #0000008a;
 }
 
 .todo-btn {

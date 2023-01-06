@@ -11,11 +11,11 @@ const TodoForm = ({ addTodo }) => {
     };
 
     return (
-        <form onSubmit={handleSubmit}>
+        <form className="todoAdd" onSubmit={handleSubmit}>
             <input
                 type="text"
-                className="todo-input"
-                placeholder="add todo..."
+                className="todo-add"
+                placeholder="Add list todo..."
                 value={value}
                 onChange={(e) => setValue(e.target.value)}
             />
