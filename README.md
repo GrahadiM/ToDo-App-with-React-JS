@@ -9,6 +9,9 @@ This is ToDo App uses React JS for Developer Technical Test in Implementation Te
 - CSS
 - JavaScript
 
+### Database or Data
+- Local Storage
+- No connection to Database!
 ## Folder Structure
 - components
   - TodoForm.js
