@@ -22,9 +22,27 @@ This is ToDo App uses React JS for Developer Technical Test in Implementation Te
 <b>Please wait.</b>
 
 <details>
-	<summary>Home page (base)</summary>
+	<summary>Home Page</summary>
 	
-![Home Not Logged In](public/assets/home_not_logged_in.png)
+![Home Blank Page](public/assets/home.png)
+</details>
+
+<details>
+	<summary>List Page</summary>
+	
+![List Page](public/assets/list.png)
+</details>
+
+<details>
+	<summary>Animation</summary>
+	
+![Animation](public/assets/animation.png)
+</details>
+
+<details>
+	<summary>Filter Todo</summary>
+	
+![Filter Todo](public/assets/filter.png)
 </details>
 
 ## Installation
